@@ -1,6 +1,5 @@
-# PRACTICA CALIFICADA 4
-### Alumna: Sophia Escalante Rodríguez
-
+# Práctica Calificada 4
+#### Realizado por: Sophia Escalante Rodriguez
 # AmazonELB
 
 Aquí, usamos Amazon Elastic Load Balancing (ELB) y Amazon Cloud Watch a través de la
